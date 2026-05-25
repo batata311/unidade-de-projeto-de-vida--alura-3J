@@ -2,16 +2,16 @@
 @import url('https://fonts.googleapis.com/css2?family=Milonga&display=swap');
 
 :root {
-  --cor-de-fundo: #7fa7c7;
+  --cor-de-fundo: #bcd1e2;
   --verde: #d3968c;
   --branco: #3792a7;
-  --botao-ativo: #79ca91;
+  --botao-ativo: #a685cc;
   --botao-inativo: #839958;
   --texto-fundo: #f8f4e8;
 }
 
 body {
-  background-image: url('aa.png');
+  background-color: #c4d9df ;
   color: var(--branco);
   font-family: "Ubuntu", sans-serif;
 }
