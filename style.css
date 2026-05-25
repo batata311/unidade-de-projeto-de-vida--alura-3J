@@ -11,7 +11,7 @@
 }
 
 body {
-  background-image: url(aa.png);
+  background-image: url('aa.png');
   color: var(--branco);
   font-family: "Ubuntu", sans-serif;
 }
