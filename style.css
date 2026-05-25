@@ -2,10 +2,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Milonga&display=swap');
 
 :root {
-  --cor-de-fundo: #86a2b9;
+  --cor-de-fundo: #7fa7c7;
   --verde: #d3968c;
-  --branco: #105666;
-  --botao-ativo: #30633f;
+  --branco: #3792a7;
+  --botao-ativo: #79ca91;
   --botao-inativo: #839958;
   --texto-fundo: #f8f4e8;
 }
@@ -108,7 +108,7 @@ body {
 .botao.ativo {
   background-color: var(--botao-ativo);
   border-bottom: 4px solid var(--verde);
-  color: #f8efe9;
+  color: #BC8F8F;
 }
 
 .abas-textos {
